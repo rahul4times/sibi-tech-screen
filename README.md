@@ -2,7 +2,7 @@
 
 A collection of simple techinical questions to help us learn more about you!
 
-In `src/underbar.js` are 3 functions "each","filter", and "map"
+In `src/index.js` are 3 functions "each","filter", and "map"
 
 Your job is to implement each function.  
 
